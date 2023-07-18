@@ -75,4 +75,8 @@ def precipitation():
 #Stations
 @app.route(f'/api/v1.0/stations')
 def stations():
-    return''
+    return ''
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
