@@ -5,6 +5,6 @@ Analysis result file:
 SurfsUp > climate_final.ipynb (Jupyter Notebook)  
 app.py (Python file)
 
-References:
+References:  
 Class activities  
 AskBCS (Mark)
